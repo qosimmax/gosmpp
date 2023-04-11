@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/linxGnu/gosmpp/pdu"
+	"github.com/qosimmax/gosmpp/pdu"
 
 	"github.com/stretchr/testify/require"
 )
